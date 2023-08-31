@@ -782,7 +782,20 @@ table thead th, table thead td {
 }
 .logo {
   float:left;
+  font-weight: 900;
+  font-size: 24px;
 }
+.logo img{
+  width: 56px;
+  padding-bottom: 14px;
+}
+.logo .black{
+  color: rgb(0, 6, 34);
+}
+.logo .blue{
+  color: rgb(134, 242, 248);
+}
+
 .navbar-default .navbar-toggle:focus .icon-bar, .navbar-default .navbar-toggle:hover .icon-bar {
 	background:#fff;
 }

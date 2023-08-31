@@ -3,10 +3,10 @@
   <div class="default-header">
     <div class="container">
       <div class="row">
-        <div class="col-sm-3 col-md-2">
-          <div class="logo"> <a href="index.php"><img src="assets/images/logg2.png" alt="image"/></a> </div>
+        <div class="col-sm-3 col-md-4">
+          <div class="logo"><a href="index.php"><span class="black">Online</span> <img src="assets/images/motorcycle.gif" alt="image"/> <span class="blue">Rental</span></a> </div>
         </div>
-        <div class="col-sm-9 col-md-10">
+        <div class="col-sm-9 col-md-8">
           <div class="header_info">
             <div class="header_widgets">
               <div class="circle_icon"> <i class="fa fa-envelope" aria-hidden="true"></i> </div>
